@@ -1,0 +1,1 @@
+java -ea -jar build/libs/example-1.0-SNAPSHOT-all.jar
